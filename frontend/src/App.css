@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  cursor: url("./images/cursor.png"), auto;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.greenColor {
+  color: green !important;
+}
+.redColor {
+  color: red !important;
+}
+.login_url{
+  position:absolute;
+  top:2.7vmax;
+  right:2vmax;
+  color:#F7FD04 ;
+  text-decoration: underline !important;
+  font-size:1.5vmax;
+  transition:all .2s ease-in-out;
+}
+.login_url:hover{
+  color:#FC5404;
+}
