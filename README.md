@@ -2,7 +2,7 @@
 
 Hi! My name is **Gaurav Keshari**, I have created this project to learn and understand the functionality of MERN STACK AND WEB DEVELOPMENT AS A WHOLE.
 
-# Prerequisite
+# STACK
 
 1. TECHNOLOGY **Node**, **React**, **Express**, **MongoDB**,**Redux** .
 2.  Stripe for payment gateway
