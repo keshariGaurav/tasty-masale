@@ -41,3 +41,18 @@ _fill each filed with your info respectively_
 
 Gaurav Keshari
 https://www.linkedin.com/in/gaurav-keshari-87aa11200/
+
+## SCREENSHOTS
+    #LANDING PAGE
+![image](https://user-images.githubusercontent.com/81485471/173176911-e24003e4-6878-42f4-9581-59b0cdcaff2c.png)
+
+    #PRODUCT PAGE
+![image](https://user-images.githubusercontent.com/81485471/173176996-9ae5eadc-148c-4c50-83f1-b4e376708a29.png)
+    
+      #PRODUCT DETAIL PAGE
+ ![image](https://user-images.githubusercontent.com/81485471/173177021-88e119ae-3949-4ce6-8d1f-1c0b07e7a39b.png)
+    
+        #ADMIN DASHBOARD
+ ![image](https://user-images.githubusercontent.com/81485471/173177062-394e29eb-78ba-4990-b03f-189edc56a1a9.png)
+
+
